@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    color:blue;
+}
+.class-one{
+    color:red;
+}
+#id-one{
+    color:green;
+}
+
+.parent{
+    display:flex;
+    justify-content:space-between;
+}
+.box-one{
+    width:100px;
+    height:100px;
+    background-color:yellow;
+}
+.box-two{
+    width:100px;
+    height:100px;
+    background-color:orange;
+}
+
+.big-box{
+    height: 150px;
+    width: 500px;
+    padding-top: 90px;
+    margin:150px 500px;
+    background-color:lightblue;
+    text-align:center;
+}
+.big-box h3{
+    font-size: 30px;
+}
